@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster");
+* {
+  mrgin: 0;
+  padding: 0;
+}
+body {
+  background: #dddddd;
+}
+body .box {
+  width: 100%;
+  min-height: 100%;
+}
+body header {
+  background: #0c7802;
+  border-bottom: 2px solid #000000;
+  z-index: 1000;
+  position: fixed !important;
+}
+body header h1 {
+  font: italic 35pt 'Lobster', sans-serif;
+  padding: 0 10px 10px 10px;
+  color: #ffffff;
+}
+body header p {
+  position: absolute;
+  top: 70px;
+  left: 155px;
+  font: italic 12pt 'arial';
+  color: #dddddd;
+}
+body .main-nav {
+  list-style: none;
+  margin-top: 35px;
+  float: right;
+  font: bold 12pt 'arial';
+}
+body .main-nav li {
+  float: left;
+  padding: 10px;
+}
+body .main-nav li a {
+  text-decoration: none;
+  color: #ffffff;
+}
+body .main-nav li :hover {
+  color: #292add;
+}
+body .main-nav li :active {
+  color: #dddc29;
+}
+body .main-tail {
+  width: 100%;
+  background: #11aa03;
+  background: url("../image/mainTail.jpg") no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+body .clear {
+  clear: both;
+}
