@@ -11,10 +11,20 @@ body{
   }
   header{
     background: @main-color;
+    border-bottom: 2px solid #000000;
+    z-index: 1000;
+    position: fixed !important;
     h1{
       font: italic 35pt  'Lobster', sans-serif;
       padding: 0 10px 10px 10px;
       color:lighten(@back-color,100%);
+    }
+    p{
+      position: absolute;
+      top:70px;
+      left:155px;
+      font: italic 12pt 'arial';
+      color:@back-color;
     }
   }
   //navigation
@@ -30,9 +40,22 @@ body{
         text-decoration: none;
         color: lighten(@back-color,100%);
       }
+      :hover{
+        color:lighten(spin(@main-color,90),50%);
+      }
+      :active{
+        color:lighten(spin(@main-color,90*-1),50%)
+      }
     }
   }
   .main-tail{
-
+    width:100%;
+    background: lighten(@main-color,10%);
+    background: url("../image/mainTail.jpg") no-repeat;
+    background-attachment: inherit;
+    background-size: cover;
+  }
+  .clear{
+    clear:both;
   }
 }
