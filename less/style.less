@@ -1,5 +1,38 @@
-body {
-  background: #0aff17;
-  margin: 500px;
+@import url("https://fonts.googleapis.com/css?family=Lobster");
+@main-color: rgb(12, 120, 2);
+@back-color: rgb(221, 221, 221);
+
+*{mrgin:0;padding:0}
+body{
+  background: @back-color;
+  .box{
+    width: 100%;
+    min-height: 100%;
+  }
+  header{
+    background: @main-color;
+    h1{
+      font: italic 35pt  'Lobster', sans-serif;
+      padding: 0 10px 10px 10px;
+      color:lighten(@back-color,100%);
+    }
+  }
+  //navigation
+  .main-nav{
+    list-style: none;
+    margin-top: 35px;
+    float: right;
+    font: bold 12pt 'arial';
+    li{
+      float: left;
+      padding: 10px;
+      a{
+        text-decoration: none;
+        color: lighten(@back-color,100%);
+      }
+    }
+  }
+  .main-tail{
+
+  }
 }
-@import url('lol.less');
