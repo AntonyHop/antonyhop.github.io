@@ -100,6 +100,32 @@ body .katchestva {
   background-size: 100% 100%;
 }
 body .katchestva .inline h1 {
-  color: #000000;
-  border-bottom: 1px solid #000000;
+  color: #ffffff;
+  text-shadow: 0px 0px 36px #021400;
+}
+body .katchestva .circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background: #0c7802;
+  margin: 0 auto;
+  margin-top: 20px;
+  box-shadow: 0px 0px 36px 0px #021400;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+body .katchestva .circle i {
+  font-size: 100pt;
+  color: #ffffff;
+}
+body .katchestva span {
+  display: table-row;
+  vertical-align: bottom;
+  font: bold 14pt 'arial';
+  text-shadow: 0px 0px 36px #021400;
+  color: #ffffff;
+}
+body .katchestva div {
+  text-align: center;
 }

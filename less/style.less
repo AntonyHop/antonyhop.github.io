@@ -99,8 +99,34 @@
     background-attachment: fixed;
     background-size: 100% 100%;
     .inline h1{
-      color:#000000;
-      border-bottom:1px solid #000000;
+      color:#ffffff;
+      text-shadow: 0px 0px 36px darken(@main-color,20%);
+    }
+    .circle{
+      width:200px;
+      height:200px;
+      border-radius: 100px;
+      background: @main-color;
+      margin:0 auto;
+      margin-top:20px;
+      box-shadow: 0px 0px 36px 0px darken(@main-color,20%);
+      text-align: center;
+      display: table-cell;
+      vertical-align: middle;
+      i{
+        font-size: 100pt;
+        color: #ffffff;
+      }
+    }
+    span{
+      display: table-row;
+      vertical-align: bottom;
+      font: bold 14pt 'arial';
+      text-shadow: 0px 0px 36px darken(@main-color,20%);
+      color:#ffffff;
+    }
+    div{
+      text-align: center;
     }
 
   }
