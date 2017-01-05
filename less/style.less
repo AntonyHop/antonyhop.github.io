@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Lobster");
+@import "fonts.less";
+
 @main-color: rgb(12, 120, 2);
 @back-color: rgb(221, 221, 221);
 @primary-color: rgb(41, 42, 221);
@@ -54,10 +55,40 @@ body{
     width:100%;
     background: lighten(@main-color,10%);
     background: url("../image/mainTail.jpg") no-repeat;
-    background-attachment: fixed;
+    background-attachment: inherit;
     background-size: cover;
+   // filter: blur(3px);
+  }
+  .statement{
+    text-align: center;
+    top:170px;
+    font-family: 'arial';
+    font-weight: bold;
+    color:white;
+    position: absolute;
+    text-shadow: 0px 0px 20px rgba(0, 0, 0, 1);
   }
   .clear{
     clear:both;
+  }
+  section{
+    width: 100%;
+    .about{
+      margin-top:-250px;
+      background: #ffffff;
+      min-height:500px;
+      box-shadow: 0px 0px 36px 0px darken(@main-color,20%);
+      .inline{
+        border-bottom:1px solid #000000;
+      }
+      img{
+        width:100%;
+        margin-top:20px;
+      }
+      p{
+        margin-top:20px;
+        font-size: 15pt;
+      }
+    }
   }
 }
