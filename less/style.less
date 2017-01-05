@@ -3,41 +3,41 @@
 @main-color: rgb(12, 120, 2);
 @back-color: rgb(221, 221, 221);
 @primary-color: rgb(41, 42, 221);
-@warning-color:spin(@primary-color,180);
+      @warning-color:spin(@primary-color,180);
 
-*{mrgin:0;padding:0}
-body{
-  background: @back-color;
-  .box{
-    width: 100%;
-    min-height: 100%;
-  }
-  header{
-    background: @main-color;
-    border-bottom: 2px solid #000000;
-    z-index: 1000;
-    position: fixed !important;
-    h1{
-      font: italic 35pt  'Lobster', sans-serif;
-      padding: 0 10px 10px 10px;
-      color:lighten(@back-color,100%);
-    }
-    p{
-      position: absolute;
-      top:70px;
-      left:155px;
-      font: italic 12pt 'arial';
-      color:@back-color;
-    }
-  }
-  //navigation
-  .main-nav{
-    list-style: none;
-    margin-top: 35px;
-    float: right;
-    font: bold 12pt 'arial';
-    li{
-      float: left;
+      *{mrgin:0;padding:0}
+      body{
+        background: @back-color;
+        .box{
+          width: 100%;
+          min-height: 100%;
+        }
+        header{
+          background: @main-color;
+          border-bottom: 2px solid #000000;
+          z-index: 1000;
+          position: fixed !important;
+          h1{
+            font: italic 35pt  'Lobster', sans-serif;
+            padding: 0 10px 10px 10px;
+            color:lighten(@back-color,100%);
+          }
+          p{
+            position: absolute;
+            top:70px;
+            left:155px;
+            font: italic 12pt 'arial';
+            color:@back-color;
+          }
+        }
+        //navigation
+        .main-nav{
+          list-style: none;
+          margin-top: 35px;
+          float: right;
+          font: bold 12pt 'arial';
+          li{
+            float: left;
       padding: 10px;
       a{
         text-decoration: none;
@@ -55,7 +55,7 @@ body{
     width:100%;
     background: lighten(@main-color,10%);
     background: url("../image/mainTail.jpg") no-repeat;
-    background-attachment: inherit;
+    background-attachment: fixed;
     background-size: cover;
    // filter: blur(3px);
   }
@@ -91,4 +91,18 @@ body{
       }
     }
   }
+  .katchestva{
+    height: 350px;
+    background: #000000;
+    margin-top: 10px;
+    background: url("../image/kat.jpg") no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    .inline h1{
+      color:#000000;
+      border-bottom:1px solid #000000;
+    }
+
+  }
+
 }

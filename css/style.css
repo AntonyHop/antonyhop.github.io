@@ -56,7 +56,7 @@ body .main-tail {
   width: 100%;
   background: #11aa03;
   background: url("../image/mainTail.jpg") no-repeat;
-  background-attachment: inherit;
+  background-attachment: fixed;
   background-size: cover;
 }
 body .statement {
@@ -90,4 +90,16 @@ body section .about img {
 body section .about p {
   margin-top: 20px;
   font-size: 15pt;
+}
+body .katchestva {
+  height: 350px;
+  background: #000000;
+  margin-top: 10px;
+  background: url("../image/kat.jpg") no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+body .katchestva .inline h1 {
+  color: #000000;
+  border-bottom: 1px solid #000000;
 }
