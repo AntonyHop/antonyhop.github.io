@@ -146,6 +146,8 @@ body .projects .project .img {
 }
 body .projects .project .text {
   background: #074601;
+  color: white;
+  font-size: 35pt;
 }
 body .projects .project div {
   min-height: 500px;
