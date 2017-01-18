@@ -3,9 +3,12 @@
 @main-color: rgb(12, 120, 2);
 @back-color: rgb(221, 221, 221);
 @primary-color: rgb(41, 42, 221);
-      @warning-color:spin(@primary-color,180);
+@warning-color:spin(@primary-color,180);
 
-      *{mrgin:0;padding:0}
+      *{
+        margin:0;
+        padding:0;
+      }
       body{
         background: @back-color;
         .box{
@@ -17,6 +20,7 @@
           border-bottom: 2px solid #000000;
           z-index: 1000;
           position: fixed !important;
+          top:0;
           h1{
             font: italic 35pt  'Lobster', sans-serif;
             padding: 0 10px 10px 10px;
@@ -55,18 +59,17 @@
     width:100%;
     background: lighten(@main-color,10%);
     background: url("../image/mainTail.jpg") no-repeat;
-    background-attachment: fixed;
+    background-attachment: inherit;
     background-size: cover;
    // filter: blur(3px);
   }
   .statement{
     text-align: center;
     top:170px;
-    font-family: 'arial';
     font-weight: bold;
     color:white;
     position: absolute;
-    text-shadow: 0px 0px 20px rgba(0, 0, 0, 1);
+    text-shadow: 0 0 20px rgba(0, 0, 0, 1);
   }
   .clear{
     clear:both;
@@ -77,7 +80,7 @@
       margin-top:-250px;
       background: #ffffff;
       min-height:500px;
-      box-shadow: 0px 0px 36px 0px darken(@main-color,20%);
+      box-shadow: 0 0 36px 0 darken(@main-color,20%);
       .inline{
         border-bottom:1px solid #000000;
       }
@@ -100,7 +103,7 @@
     background-size: 100% 100%;
     .inline h1{
       color:#ffffff;
-      text-shadow: 0px 0px 36px darken(@main-color,20%);
+      text-shadow: 0 0 36px darken(@main-color,20%);
     }
     .circle{
       width:200px;
@@ -109,7 +112,7 @@
       background: @main-color;
       margin:0 auto;
       margin-top:20px;
-      box-shadow: 0px 0px 36px 0px darken(@main-color,20%);
+      box-shadow: 0 0 36px 0 darken(@main-color,20%);
       text-align: center;
       display: table-cell;
       vertical-align: middle;
@@ -122,7 +125,7 @@
       display: table-row;
       vertical-align: bottom;
       font: bold 14pt 'arial';
-      text-shadow: 0px 0px 36px darken(@main-color,20%);
+      text-shadow: 0 0 36px darken(@main-color,20%);
       color:#ffffff;
     }
     div{
@@ -130,5 +133,30 @@
     }
 
   }
+  .projects{
+    h1{
+      text-align: center;
+    }
+    .project{
+      width: 100%;
+      margin-top:20px;
 
+      .img{
+        background: darken(@main-color,10%);
+        background: url("https://st.weblancer.net/download/2324959.png");
+        background-attachment: inherit;
+        background-size:100%;
+        box-shadow: 0 0 36px 0 #000;
+        z-index: 10;
+      }
+      .text{
+        background: darken(@main-color,10%);
+      }
+      div{
+        min-height:500px;
+        margin-top:5px;
+        margin-bottom: 5px;
+      }
+    }
+  }
 }
