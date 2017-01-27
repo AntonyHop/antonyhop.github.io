@@ -143,14 +143,31 @@ body .projects .project .img {
   background-size: 100%;
   box-shadow: 0 0 36px 0 #000;
   z-index: 10;
+  height: 100%;
 }
 body .projects .project .text {
   background: #074601;
   color: white;
-  font-size: 35pt;
+  font-size: 30pt;
+  text-align: justify;
 }
 body .projects .project div {
   min-height: 500px;
   margin-top: 5px;
   margin-bottom: 5px;
+}
+body .skills-one {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+body .skills h1 {
+  text-align: center;
+}
+body .skills .progress {
+  box-shadow: 0 0 20px 0 #000;
+  vertical-align: middle;
+  margin-top: 15px;
+}
+body .skills img {
+  width: 100%;
 }
