@@ -171,3 +171,7 @@ body .skills .progress {
 body .skills img {
   width: 100%;
 }
+body footer {
+  height: 500px;
+  background: #021400;
+}
