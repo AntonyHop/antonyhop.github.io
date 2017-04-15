@@ -48,10 +48,10 @@
         color: lighten(@back-color,100%);
       }
       :hover{
-        color:@primary-color;
+        color:darken(@back-color,5%);
       }
       :active{
-        color:@warning-color;
+        color:spin(@main-color,95);
       }
     }
   }
@@ -91,6 +91,13 @@
       p{
         margin-top:20px;
         font-size: 15pt;
+      }
+      h2{
+        color: @main-color;
+        font-weight: bold;
+      }
+      h3{
+        color: darken(@main-color,10%);
       }
     }
   }

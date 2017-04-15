@@ -48,10 +48,10 @@ body .main-nav li a {
   color: #ffffff;
 }
 body .main-nav li :hover {
-  color: #292add;
+  color: #d0d0d0;
 }
 body .main-nav li :active {
-  color: #dddc29;
+  color: #023d78;
 }
 body .main-tail {
   width: 100%;
@@ -90,6 +90,13 @@ body section .about img {
 body section .about p {
   margin-top: 20px;
   font-size: 15pt;
+}
+body section .about h2 {
+  color: #0c7802;
+  font-weight: bold;
+}
+body section .about h3 {
+  color: #074601;
 }
 body .katchestva {
   height: 350px;
