@@ -178,6 +178,8 @@ body .skills .progress {
 }
 body .skills img {
   width: 100%;
+  overflow: hidden;
+  margin-bottom: 10px;
 }
 body footer {
   height: 500px;
