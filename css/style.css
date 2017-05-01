@@ -77,7 +77,7 @@ body section {
 body section .about {
   margin-top: -250px;
   background: #ffffff;
-  min-height: 500px;
+  min-height: 530px;
   box-shadow: 0 0 36px 0 #021400;
 }
 body section .about .inline {
@@ -86,6 +86,7 @@ body section .about .inline {
 body section .about img {
   width: 100%;
   margin-top: 20px;
+  padding-bottom: 10px;
 }
 body section .about p {
   margin-top: 20px;
@@ -145,7 +146,7 @@ body .projects .project {
 }
 body .projects .project .img {
   background: #074601;
-  background: url("https://st.weblancer.net/download/2324959.png");
+  background: url("../image/1.png");
   background-attachment: inherit;
   background-size: 100%;
   box-shadow: 0 0 36px 0 #000;
@@ -156,7 +157,7 @@ body .projects .project .text {
   background: #074601;
   color: white;
   font-size: 30pt;
-  text-align: justify;
+  text-align: left;
 }
 body .projects .project div {
   min-height: 500px;
