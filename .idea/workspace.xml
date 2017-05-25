@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
     </list>
     <ignored path="AntonyHopPortfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,8 +46,8 @@
           <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+                <state relative-caret-position="374">
+                  <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
                   <folding />
                 </state>
               </provider>
@@ -122,8 +123,8 @@
         <option value="$PROJECT_DIR$/less/fonts.less" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/less/style.less" />
+        <option value="$PROJECT_DIR$/js/app.js" />
       </list>
     </option>
   </component>
@@ -280,7 +281,7 @@
       <workItem from="1493622740083" duration="10314000" />
       <workItem from="1493705414219" duration="663000" />
       <workItem from="1493894491749" duration="2054000" />
-      <workItem from="1495709986098" duration="18042000" />
+      <workItem from="1495709986098" duration="18596000" />
     </task>
     <task id="LOCAL-00001" summary="Create header And menu">
       <created>1483527650108</created>
@@ -380,17 +381,24 @@
       <option name="project" value="LOCAL" />
       <updated>1495728069669</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Enden landing&#10;">
+      <created>1495729225842</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1495729225842</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72477000" />
+    <option name="totallyTimeSpent" value="73031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16740413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16740413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -447,8 +455,10 @@
           <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#1047#0" expanded="false" />
             <element signature="e#1573#1781#0" expanded="false" />
             <element signature="e#1955#1976#0" expanded="false" />
+            <marker date="1495727924207" expanded="true" signature="4221:4261" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -497,8 +507,10 @@
           <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#1047#0" expanded="false" />
             <element signature="e#1573#1781#0" expanded="false" />
             <element signature="e#1955#1976#0" expanded="false" />
+            <marker date="1495727924207" expanded="true" signature="4221:4261" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -547,8 +559,10 @@
           <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#1047#0" expanded="false" />
             <element signature="e#1573#1781#0" expanded="false" />
             <element signature="e#1955#1976#0" expanded="false" />
+            <marker date="1495727924207" expanded="true" signature="4221:4261" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -597,8 +611,10 @@
           <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#1047#0" expanded="false" />
             <element signature="e#1573#1781#0" expanded="false" />
             <element signature="e#1955#1976#0" expanded="false" />
+            <marker date="1495727924207" expanded="true" signature="4221:4261" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -631,8 +647,10 @@
           <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#1047#0" expanded="false" />
             <element signature="e#1573#1781#0" expanded="false" />
             <element signature="e#1955#1976#0" expanded="false" />
+            <marker date="1495727924207" expanded="true" signature="4221:4261" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -681,8 +699,10 @@
           <caret line="102" column="56" selection-start-line="102" selection-start-column="56" selection-end-line="102" selection-end-column="56" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#1047#0" expanded="false" />
             <element signature="e#1573#1781#0" expanded="false" />
             <element signature="e#1955#1976#0" expanded="false" />
+            <marker date="1495727924207" expanded="true" signature="4221:4261" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -723,8 +743,10 @@
           <caret line="102" column="56" selection-start-line="102" selection-start-column="56" selection-end-line="102" selection-end-column="56" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#1047#0" expanded="false" />
             <element signature="e#1573#1781#0" expanded="false" />
             <element signature="e#1955#1976#0" expanded="false" />
+            <marker date="1495727924207" expanded="true" signature="4221:4261" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -765,8 +787,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#1047#0" expanded="false" />
             <element signature="e#1573#1781#0" expanded="false" />
             <element signature="e#1955#1976#0" expanded="false" />
+            <marker date="1495727924207" expanded="true" signature="4221:4261" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -806,8 +830,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#1047#0" expanded="false" />
             <element signature="e#1573#1781#0" expanded="false" />
             <element signature="e#1955#1976#0" expanded="false" />
+            <marker date="1495727924207" expanded="true" signature="4221:4261" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -878,23 +904,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
+    <entry file="file://$PROJECT_DIR$/less/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-          <folding />
+        <state relative-caret-position="805">
+          <caret line="146" column="20" selection-start-line="146" selection-start-column="20" selection-end-line="146" selection-end-column="20" />
+          <folding>
+            <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#1047#0" expanded="false" />
+            <element signature="e#1573#1781#0" expanded="false" />
+            <element signature="e#1955#1976#0" expanded="false" />
+            <marker date="1495727924207" expanded="true" signature="4221:4261" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/style.less">
+    <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="192" column="5" selection-start-line="192" selection-start-column="5" selection-end-line="192" selection-end-column="5" />
-          <folding>
-            <element signature="e#351#413#0" expanded="false" />
-            <element signature="e#1573#1781#0" expanded="false" />
-            <element signature="e#1955#1976#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
