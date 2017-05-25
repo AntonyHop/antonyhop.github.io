@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/mobule.css" afterPath="$PROJECT_DIR$/css/mobule.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/mobule.less" afterPath="$PROJECT_DIR$/less/mobule.less" />
     </list>
     <ignored path="AntonyHopPortfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,11 +44,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="mobule.less" pinned="false" current-in-tab="false">
+          <file leaf-file-name="mobule.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/less/mobule.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+                <state relative-caret-position="272">
+                  <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
@@ -62,10 +64,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="style.less" pinned="false" current-in-tab="true">
+          <file leaf-file-name="style.less" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/less/style.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="805">
+                <state relative-caret-position="550">
                   <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
                   <folding>
                     <element signature="e#351#413#0" expanded="false" />
@@ -290,7 +292,7 @@
       <workItem from="1493705414219" duration="663000" />
       <workItem from="1493894491749" duration="2054000" />
       <workItem from="1495709986098" duration="19748000" />
-      <workItem from="1495731582858" duration="4751000" />
+      <workItem from="1495731582858" duration="4834000" />
     </task>
     <task id="LOCAL-00001" summary="Create header And menu">
       <created>1483527650108</created>
@@ -509,11 +511,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495736336057</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="fix mobule wersion remove header on mobule wersion2&#10;">
+      <created>1495736355366</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1495736355366</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78934000" />
+    <option name="totallyTimeSpent" value="79017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
@@ -565,7 +574,8 @@
     <MESSAGE value="Enden landing&#10;" />
     <MESSAGE value="fix mobule wersion&#10;" />
     <MESSAGE value="fix mobule wersion remove header on mobule wersion&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix mobule wersion remove header on mobule wersion&#10;" />
+    <MESSAGE value="fix mobule wersion remove header on mobule wersion2&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix mobule wersion remove header on mobule wersion2&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1007,17 +1017,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/mobule.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/less/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
+        <state relative-caret-position="550">
           <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
@@ -1025,6 +1027,14 @@
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mobule.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
