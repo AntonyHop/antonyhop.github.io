@@ -26,8 +26,6 @@ body header {
   top: 0;
   padding-bottom: 15px;
 }
-@media (min-width: 768px) {
-}
 body header h1 {
   font: italic 35pt 'Lobster', sans-serif;
   padding: 0 10px 10px 10px;
