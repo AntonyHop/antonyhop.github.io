@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/res.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/mobule.css" />
+    <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="fix mobule wersion remove header on mobule wersion&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/mobule.css" afterPath="$PROJECT_DIR$/css/mobule.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/mobule.less" afterPath="$PROJECT_DIR$/less/mobule.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/style.less" afterPath="$PROJECT_DIR$/less/style.less" />
     </list>
     <ignored path="AntonyHopPortfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +33,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+                <state relative-caret-position="476">
+                  <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
                   <folding>
                     <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#a#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -64,7 +66,7 @@
                     <element signature="e#428#967#0" expanded="false" />
                     <element signature="e#1493#1701#0" expanded="false" />
                     <element signature="e#1875#1896#0" expanded="false" />
-                    <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
+                    <marker date="1495734763120" expanded="true" signature="255:5173" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -74,7 +76,7 @@
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
-                  <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+                  <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -94,26 +96,15 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="style.less" pinned="false" current-in-tab="false">
+          <file leaf-file-name="style.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/less/style.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-510">
-                  <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+                <state relative-caret-position="435">
+                  <caret line="84" column="21" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
                   <folding>
                     <element signature="e#351#413#0" expanded="false" />
-                    <element signature="e#1493#1701#0" expanded="false" />
                     <element signature="e#1875#1896#0" expanded="false" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="mobule.less" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/less/mobule.less">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -142,9 +133,10 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/less/mobule.less.css" />
-        <option value="$PROJECT_DIR$/less/style.less" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/less/mobule.less" />
+        <option value="$PROJECT_DIR$/css/mobule.css" />
+        <option value="$PROJECT_DIR$/less/style.less" />
       </list>
     </option>
   </component>
@@ -331,7 +323,7 @@
       <workItem from="1493705414219" duration="663000" />
       <workItem from="1493894491749" duration="2054000" />
       <workItem from="1495709986098" duration="19748000" />
-      <workItem from="1495731582858" duration="2828000" />
+      <workItem from="1495731582858" duration="3207000" />
     </task>
     <task id="LOCAL-00001" summary="Create header And menu">
       <created>1483527650108</created>
@@ -494,11 +486,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495734350109</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="fix mobule wersion remove header on mobule wersion&#10;">
+      <created>1495734425040</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1495734425040</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77011000" />
+    <option name="totallyTimeSpent" value="77390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
@@ -506,6 +505,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16961652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -515,7 +515,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -590,7 +589,7 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
+            <marker date="1495734763120" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -642,7 +641,7 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
+            <marker date="1495734763120" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -694,7 +693,7 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
+            <marker date="1495734763120" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -730,7 +729,7 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
+            <marker date="1495734763120" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -782,7 +781,7 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
+            <marker date="1495734763120" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -826,7 +825,7 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
+            <marker date="1495734763120" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -870,7 +869,7 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
+            <marker date="1495734763120" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -913,7 +912,7 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
+            <marker date="1495734763120" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -973,7 +972,15 @@
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mobule.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -995,23 +1002,15 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
+            <marker date="1495734763120" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/mobule.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="476">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#a#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
