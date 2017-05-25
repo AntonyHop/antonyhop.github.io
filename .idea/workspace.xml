@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/mobule.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/style.less" afterPath="$PROJECT_DIR$/less/style.less" />
     </list>
     <ignored path="AntonyHopPortfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,8 +29,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="374">
-                  <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+                <state relative-caret-position="357">
+                  <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
                   <folding>
                     <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#a#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -112,8 +109,8 @@
           <file leaf-file-name="mobule.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/less/mobule.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="85">
-                  <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+                <state relative-caret-position="34">
+                  <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
@@ -332,7 +329,7 @@
       <workItem from="1493705414219" duration="663000" />
       <workItem from="1493894491749" duration="2054000" />
       <workItem from="1495709986098" duration="19748000" />
-      <workItem from="1495731582858" duration="2619000" />
+      <workItem from="1495731582858" duration="2737000" />
     </task>
     <task id="LOCAL-00001" summary="Create header And menu">
       <created>1483527650108</created>
@@ -481,11 +478,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495731939446</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="fix mobule wersion&#10;">
+      <created>1495734217730</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1495734217730</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76802000" />
+    <option name="totallyTimeSpent" value="76920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
@@ -573,8 +577,10 @@
           <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
+            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -623,8 +629,10 @@
           <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
+            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -673,8 +681,10 @@
           <caret line="127" column="20" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
+            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -707,8 +717,10 @@
           <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
+            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -757,8 +769,10 @@
           <caret line="102" column="56" selection-start-line="102" selection-start-column="56" selection-end-line="102" selection-end-column="56" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
+            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -799,8 +813,10 @@
           <caret line="102" column="56" selection-start-line="102" selection-start-column="56" selection-end-line="102" selection-end-column="56" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
+            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -841,8 +857,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
+            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -882,8 +900,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
+            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -958,20 +978,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/less/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+        <state relative-caret-position="1904">
+          <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
+            <marker date="1495733648626" expanded="true" signature="255:5100" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/mobule.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        <state relative-caret-position="357">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#a#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -979,14 +1009,6 @@
             <element signature="n#style#0;n#span#0;n#div#2;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#textarea#0;n#div#0;n#div#2;n#fieldset#0;n#div#1;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/mobule.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
