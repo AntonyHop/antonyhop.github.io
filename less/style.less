@@ -1,4 +1,5 @@
 @import "fonts.less";
+@import "../fw/animate.css";
 
 @main-color: rgb(12, 120, 2);
 @back-color: rgb(221, 221, 221);
@@ -10,6 +11,9 @@
         padding:0;
       }
       body{
+        h1{
+          font-size: 50px;
+        }
         background: @back-color;
         .box{
           width: 100%;
@@ -21,6 +25,10 @@
           z-index: 1000;
           position: fixed !important;
           top:0;
+          @media(min-width:768px){
+            //padding-top: 20px;
+          }
+          padding-bottom: 15px;
           h1{
             font: italic 35pt  'Lobster', sans-serif;
             padding: 0 10px 10px 10px;
@@ -42,19 +50,19 @@
           font: bold 12pt 'arial';
           li{
             float: left;
-      padding: 10px;
-      a{
-        text-decoration: none;
-        color: lighten(@back-color,100%);
-      }
-      :hover{
-        color:darken(@back-color,5%);
-      }
-      :active{
-        color:spin(@main-color,95);
-      }
-    }
-  }
+            padding: 10px;
+            a{
+              text-decoration: none;
+              color: lighten(@back-color,100%);
+            }
+            :hover{
+              color:darken(@back-color,5%);
+            }
+            :active{
+              color:spin(@main-color,95);
+            }
+          }
+         }
   .main-tail{
     width:100%;
     background: lighten(@main-color,10%);
@@ -83,6 +91,9 @@
       box-shadow: 0 0 36px 0 darken(@main-color,20%);
       .inline{
         border-bottom:1px solid #000000;
+      }
+      .btn{
+        margin-bottom: 10px;
       }
       img{
         width:100%;
@@ -172,26 +183,62 @@
     }
   }
   .skills{
-    &-one{
-      margin-top: 10px;
-      margin-bottom: 10px;
-    }
     h1{
       text-align: center;
-    }
-    .progress{
-      box-shadow: 0 0 20px 0 #000;
-      vertical-align: middle;
-      margin-top:15px;
     }
     img{
       width:100%;
       overflow:hidden;
       margin-bottom: 10px;
     }
+    a:hover > img{
+      border :3px solid #cccccc;
+    }
   }
   footer{
-    height: 500px;
-    background: darken(@main-color,20%)
+    div h1{
+      text-transform: uppercase;
+      text-align: center;
+      font: italic 35pt  'Lobster', sans-serif;
+    }
+    .footer_up{
+      background: darken(@main-color,18%);
+      color :#ffffff;
+      ul{
+        list-style: none;
+      }
+      margin-bottom: -1px;
+      padding-bottom: 3px;
+      .icon_net{
+        padding: 3px;
+        z-index:1 !important;
+        img{
+          width:100%;
+        }
+        :hover{
+          animation-name: tada;
+          animation-duration: 1s;
+          img{
+            z-index: 1000 !important;
+          }
+        }
+      }
+    }
+    .footer_down{
+      background: #000000;
+      color:#ffffff;
+      padding: 5px;
+      span:last-child{
+        text-align: right;
+        font-family:'arial';
+        i{
+          font-size: 15pt;
+          font-family: 'Lobster', sans-serif;
+        }
+      }
+    }
+  }
+  .my {
+    margin-bottom: 60px;
   }
 }
