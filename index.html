@@ -12,7 +12,6 @@
 	<script src="fw/wow.min.js"></script>
 	<script src="js/app.js"></script>
 	<script>
-		console.log(window.innerWidth)
 		if (window.innerWidth >= 720){
 			new WOW().init();
 		}
@@ -30,7 +29,7 @@
 				<p>Кукушкина Антона</p>
 			</div>
 			<nav class="col-md-9">
-				<ul class="main-nav">
+				<ul class="main-nav hidden-xs">
 					<li class="wow slideInDown" data-wow-delay="0.3s"><a href="#" data-link="#about">Резюме</a></li>
 					<li class="hidden-sm wow slideInDown" data-wow-delay="0.4s"><a href="#" data-link="#katchestva">Личносные качества</a></li>
 					<li class="proj wow slideInDown" data-wow-delay="0.5s"><a href="#"  data-link="#projects" >Некоторые из проэктов</a></li>
@@ -50,7 +49,7 @@
 			<div id="about" class="about col-md-offset-1 col-md-10 wow fadeInUp"  data-wow-delay="0.1s">
 				<div class="inline col-md-12"><h1>Резюме:</h1></div>
 				<div class="col-md-4"><img src="image/I_AM.jpg" alt=""></div>
-				<div class="col-md-8"><p>
+				<div class="col-md-8">
 					<h2>Кукушкин Антон Сергеевич</h2>
 					<h3><i>full stack, html-верстальщик, Web-программист</i></h3>
 					<p>
@@ -59,7 +58,7 @@
 					<p>Открыт к предложениям о постоянной работе.</p>
 					<p><b>Frontend технологии которые я использую:</b> HTML5, CSS3, Less, Sass, JavaScript, JQuery, AngularJS, Bootstrap</p>
 					<p><b>Backend технологии которые я использую:</b> PHP, NodeJS, Express, MySql, Ajax, JSON</p>
-				</p>
+
 					<a href="#" class="btn btn-success col-md-offset-8 col-md-4">Полная версия резюме</a>
 				</div>
 				<div class="clear"></div>
@@ -85,10 +84,8 @@
 				<div class="text col-md-7 wow slideInRight" data-wow-duration="1s" data-wow-delay="0.8s">
 					<span class="col-md-11">
 						<p>Перенос макета сайта <a href="http://promfactor.com">http://promfactor.com</a>
-						на новую самописную CMS с чстичным редизайном.
-						</p>
-						<p>Также разработал новый модуль для отображения региональных представительств на карте.
-						</p>
+						на новую самописную CMS с чстичным редизайном.</p>
+						<p>Также разработал новый модуль для отображения региональных представительств на карте</p>
 					</span>
 				</div>
 			</div>
@@ -203,6 +200,5 @@
 				</form>
 			</div>
 		</div>
-	</div>
 </body>
 </html>
