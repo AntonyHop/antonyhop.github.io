@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="Add gramots&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/g.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/gi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/l.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fw/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fw/wow.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.scrollTo.min.js" />
+    <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/style.less" afterPath="$PROJECT_DIR$/less/style.less" />
     </list>
     <ignored path="AntonyHopPortfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -199,20 +188,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AntonyHopPortfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AntonyHopPortfolio" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -305,7 +280,7 @@
       <workItem from="1493622740083" duration="10314000" />
       <workItem from="1493705414219" duration="663000" />
       <workItem from="1493894491749" duration="2054000" />
-      <workItem from="1495709986098" duration="16863000" />
+      <workItem from="1495709986098" duration="18042000" />
     </task>
     <task id="LOCAL-00001" summary="Create header And menu">
       <created>1483527650108</created>
@@ -398,11 +373,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493634021214</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Enden landing&#10;">
+      <created>1495728069669</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1495728069669</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71298000" />
+    <option name="totallyTimeSpent" value="72477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
@@ -451,7 +433,8 @@
     <MESSAGE value="fix all" />
     <MESSAGE value="Add about myself" />
     <MESSAGE value="Add gramots&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add gramots&#10;" />
+    <MESSAGE value="Enden landing&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enden landing&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
