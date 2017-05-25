@@ -1,0 +1,11 @@
+@media (max-width: 900px) {
+  body header {
+    position: relative;
+  }
+  .main-nav {
+    display: none;
+  }
+  body section .about {
+    margin-top: 0;
+  }
+}
