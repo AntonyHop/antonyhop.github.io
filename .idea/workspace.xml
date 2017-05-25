@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="fix mobule wersion remove header on mobule wersion&#10;">
+    <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/mobule.css" afterPath="$PROJECT_DIR$/css/mobule.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/mobule.less" afterPath="$PROJECT_DIR$/less/mobule.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/style.less" afterPath="$PROJECT_DIR$/less/style.less" />
     </list>
     <ignored path="AntonyHopPortfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -323,7 +319,7 @@
       <workItem from="1493705414219" duration="663000" />
       <workItem from="1493894491749" duration="2054000" />
       <workItem from="1495709986098" duration="19748000" />
-      <workItem from="1495731582858" duration="3207000" />
+      <workItem from="1495731582858" duration="3217000" />
     </task>
     <task id="LOCAL-00001" summary="Create header And menu">
       <created>1483527650108</created>
@@ -493,11 +489,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495734425040</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="fix mobule wersion remove header on mobule wersion&#10;">
+      <created>1495734806346</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1495734806346</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77390000" />
+    <option name="totallyTimeSpent" value="77400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
