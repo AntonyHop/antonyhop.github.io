@@ -42,11 +42,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="mobule.less" pinned="false" current-in-tab="true">
+          <file leaf-file-name="mobule.less" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/less/mobule.less">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="255">
-                  <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+                  <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
@@ -62,17 +62,16 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="style.less" pinned="false" current-in-tab="false">
+          <file leaf-file-name="style.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/less/style.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1904">
+                <state relative-caret-position="805">
                   <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
                   <folding>
                     <element signature="e#351#413#0" expanded="false" />
                     <element signature="e#428#967#0" expanded="false" />
                     <element signature="e#1493#1701#0" expanded="false" />
                     <element signature="e#1875#1896#0" expanded="false" />
-                    <marker date="1495735842426" expanded="true" signature="255:5173" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -105,8 +104,8 @@
           <file leaf-file-name="style.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/less/style.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="84" column="21" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+                <state relative-caret-position="221">
+                  <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
                   <folding>
                     <element signature="e#351#413#0" expanded="false" />
                     <element signature="e#1875#1896#0" expanded="false" />
@@ -291,7 +290,7 @@
       <workItem from="1493705414219" duration="663000" />
       <workItem from="1493894491749" duration="2054000" />
       <workItem from="1495709986098" duration="19748000" />
-      <workItem from="1495731582858" duration="4683000" />
+      <workItem from="1495731582858" duration="4729000" />
     </task>
     <task id="LOCAL-00001" summary="Create header And menu">
       <created>1483527650108</created>
@@ -496,15 +495,22 @@
       <option name="project" value="LOCAL" />
       <updated>1495736247560</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="fix mobule wersion remove header on mobule wersion&#10;">
+      <created>1495736284504</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1495736284504</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78866000" />
+    <option name="totallyTimeSpent" value="78912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16961652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -592,7 +598,6 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495735842426" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -644,7 +649,6 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495735842426" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -696,7 +700,6 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495735842426" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -732,7 +735,6 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495735842426" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -784,7 +786,6 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495735842426" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -828,7 +829,6 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495735842426" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -872,7 +872,6 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495735842426" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -915,7 +914,6 @@
             <element signature="e#428#967#0" expanded="false" />
             <element signature="e#1493#1701#0" expanded="false" />
             <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495735842426" expanded="true" signature="255:5173" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -972,20 +970,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/style.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
-          <folding>
-            <element signature="e#351#413#0" expanded="false" />
-            <element signature="e#428#967#0" expanded="false" />
-            <element signature="e#1493#1701#0" expanded="false" />
-            <element signature="e#1875#1896#0" expanded="false" />
-            <marker date="1495735842426" expanded="true" signature="255:5173" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1019,8 +1003,21 @@
     <entry file="file://$PROJECT_DIR$/less/mobule.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
+          <folding>
+            <element signature="e#351#413#0" expanded="false" />
+            <element signature="e#428#967#0" expanded="false" />
+            <element signature="e#1493#1701#0" expanded="false" />
+            <element signature="e#1875#1896#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
