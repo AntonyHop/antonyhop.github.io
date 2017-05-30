@@ -4,6 +4,7 @@
     <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/style.less" afterPath="$PROJECT_DIR$/less/style.less" />
     </list>
     <ignored path="AntonyHopPortfolio.iws" />
@@ -25,14 +26,14 @@
     <favorites_list name="AntonyHopPortfolio" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.45740741">
+    <splitter split-orientation="horizontal" split-proportion="0.43703705">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="757">
-                  <caret line="171" column="34" selection-start-line="171" selection-start-column="34" selection-end-line="171" selection-end-column="34" />
+                <state relative-caret-position="323">
+                  <caret line="143" column="45" selection-start-line="143" selection-start-column="37" selection-end-line="143" selection-end-column="45" />
                   <folding>
                     <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#a#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -93,7 +94,7 @@
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="136">
-                  <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+                  <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -117,7 +118,7 @@
             <entry file="file://$PROJECT_DIR$/less/style.less">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="663">
-                  <caret line="246" column="27" selection-start-line="246" selection-start-column="27" selection-end-line="246" selection-end-column="27" />
+                  <caret line="246" column="30" selection-start-line="246" selection-start-column="30" selection-end-line="246" selection-end-column="30" />
                   <folding>
                     <element signature="e#351#413#0" expanded="false" />
                     <element signature="e#428#967#0" expanded="false" />
@@ -315,7 +316,7 @@
       <workItem from="1493894491749" duration="2054000" />
       <workItem from="1495709986098" duration="19748000" />
       <workItem from="1495731582858" duration="8602000" />
-      <workItem from="1496149061159" duration="545000" />
+      <workItem from="1496149061159" duration="665000" />
     </task>
     <task id="LOCAL-00001" summary="Create header And menu">
       <created>1483527650108</created>
@@ -569,11 +570,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496149204776</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="fix meta viewport on mobule devices and all&#10;">
+      <created>1496149626327</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1496149626327</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83330000" />
+    <option name="totallyTimeSpent" value="83450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="693" y="0" width="714" height="1017" extended-state="0" />
@@ -630,7 +638,8 @@
     <MESSAGE value="add director php" />
     <MESSAGE value="add director php phpinfo&#10;" />
     <MESSAGE value="fix meta viewport on mobule devices&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix meta viewport on mobule devices&#10;" />
+    <MESSAGE value="fix meta viewport on mobule devices and all&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix meta viewport on mobule devices and all&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1029,7 +1038,7 @@
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1068,8 +1077,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="757">
-          <caret line="171" column="34" selection-start-line="171" selection-start-column="34" selection-end-line="171" selection-end-column="34" />
+        <state relative-caret-position="323">
+          <caret line="143" column="45" selection-start-line="143" selection-start-column="37" selection-end-line="143" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#a#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1083,7 +1092,7 @@
     <entry file="file://$PROJECT_DIR$/less/style.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
-          <caret line="246" column="27" selection-start-line="246" selection-start-column="27" selection-end-line="246" selection-end-column="27" />
+          <caret line="246" column="30" selection-start-line="246" selection-start-column="30" selection-end-line="246" selection-end-column="30" />
           <folding>
             <element signature="e#351#413#0" expanded="false" />
             <element signature="e#428#967#0" expanded="false" />
