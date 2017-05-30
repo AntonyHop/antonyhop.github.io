@@ -231,4 +231,7 @@ body .my {
   body .box {
     margin-top: 270px;
   }
+  body .footer_up div {
+    word-wrap: break-word;
+  }
 }
