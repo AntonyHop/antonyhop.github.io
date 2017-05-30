@@ -19,6 +19,24 @@ $(document).ready(function () {
             $('html,body').animate({scrollTop: Math.abs($(id).offset().top-offset)}, 'slow');
         }
     }
+
+    $('.send-form').click(function () {
+        var toSend = {
+            form:{
+                name:$('#name').val(),
+                tel:$('#tel').val(),
+                text:$('#text').val()
+            }
+        };
+
+       $.ajax({
+           type: "POST",
+           url: "http://egor-book.esy.es/",
+           dataType: 'jsonp',
+           success: function (data){
+               alert(data);
+           }
+       })
+    })
 });
-//add coment in new repo
 
