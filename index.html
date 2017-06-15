@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<script src="js/jquery-3.1.1.min.js"></script>
 	<script src="js/jquery.scrollTo.min.js"></script>
+	<script src="js/jquery.maskedinput.min.js"></script>
 	<script src="fw/bootstrap/js/bootstrap.min.js"></script>
 	<script src="fw/wow.min.js"></script>
 	<script src="js/app.js"></script>
@@ -36,7 +37,7 @@
 					<li class="hidden-sm wow slideInDown" data-wow-delay="0.4s"><a href="#" data-link="#katchestva">Личносные качества</a></li>
 					<li class="proj wow slideInDown" data-wow-delay="0.5s"><a href="#"  data-link="#projects" >Некоторые из проэктов</a></li>
 					<li class="sertificats wow slideInDown" data-wow-delay="0.6s"><a href="#" data-link="#skills">Серитификаты</a></li>
-					<!--<li class="wow slideInDown" data-wow-delay="0.7s"><a href="#" data-toggle="modal" data-target="#add_work">Предложить работу</a></li>-->
+					<li class="addW wow slideInDown" data-wow-delay="0.7s"><a href="#" data-toggle="modal" data-target="#add_work">Предложить работу</a></li>
 				</ul>
 			</nav>
 			<div class="clear"></div>
@@ -174,7 +175,7 @@
 							<div class="form-group my">
 								<label class="col-md-12 control-label" for="name">Имя</label>
 								<div class="col-md-12">
-									<input id="name" name="name" type="text" placeholder="Имя или название организации" class="form-control input-md" required="">
+									<input id="name" name="name" type="text" placeholder="Имя или название организации" class="form-control input-md" required="" aria-required="true">
 								</div>
 							</div>
 							<br>
@@ -182,15 +183,15 @@
 							<div class="form-group my">
 								<label class="col-md-12 control-label" for="tel">Номер телефона</label>
 								<div class="col-md-12">
-									<input id="tel" name="textinput" type="text" placeholder="" class="form-control input-md">
+									<input class="form-control input-md" type="text" id="tel" name="tel" placeholder="(097) 806 0988">
 								</div>
 							</div>
 							<br>
 							<!-- Textarea -->
 							<div class="form-group my">
-								<label class="col-md-12 control-label" for="textarea">Предложение</label>
+								<label class="col-md-12 control-label" for="text">Предложение</label>
 								<div class="col-md-12">
-									<textarea id="text" style="resize: none;height:250px" class="form-control" id="textarea" name="textarea"></textarea>
+									<textarea id="text" style="resize: none;height:250px" class="form-control" name="textarea"></textarea>
 								</div>
 							</div>
 						</fieldset>

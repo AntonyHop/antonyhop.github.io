@@ -234,4 +234,8 @@ body .my {
   body .footer_up .feedback {
     word-wrap: break-word;
   }
+  body .my{
+    margin-top:10px;
+  }
+
 }
