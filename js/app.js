@@ -35,7 +35,7 @@ $(document).ready(function () {
             }
             if(send){
                 var body = 'name=' + encodeURIComponent($('#name').val()) + '&tel=' + encodeURIComponent($('#tel').val()) + '&text=' + encodeURIComponent($('#text').val());
-                XHR.open("POST","http://relaxmusic.esy.es/main/form&"+body);
+                XHR.open("POST","http://relaxmusic.esy.es/portfolio/form&"+body);
                 XHR.onload = function(){
                     if(this.responseText == 'done'){
                         $('#add_work').modal('toggle');
