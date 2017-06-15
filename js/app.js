@@ -20,23 +20,13 @@ $(document).ready(function () {
         }
     }
 
-    $('.send-form').click(function () {
-        var toSend = {
-            form:{
-                name:$('#name').val(),
-                tel:$('#tel').val(),
-                text:$('#text').val()
-            }
-        };
+    var XHR = ( window.XMLHttpRequest && "withCredentials" in (new XMLHttpRequest) ) ? new XMLHttpRequest : window.XDomainRequest ? new XDomainRequest : null;
+    if(XHR){
+        XHR.open("GET","http://relaxmusic.esy.es/main/form");
+        XHR.onload = function(){
+            alert( this.responseText );
+        }
+    }
 
-       $.ajax({
-           type: "POST",
-           url: "http://egor-book.esy.es/",
-           dataType: 'jsonp',
-           success: function (data){
-               alert(data);
-           }
-       })
-    })
 });
 
