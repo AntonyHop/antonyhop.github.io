@@ -163,45 +163,8 @@
 <!--MODAL Предложить работу-->
 	<div class="modal fade" id="add_work" tabindex="-1" role="dialog" aria-labelledby="gridSystemModalLabel">
 		<div class="modal-dialog" role="document">
-			<form class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-					<h4 class="modal-title" id="gridSystemModalLabel">Предложить работу</h4>
-				</div>
-				<div class="modal-body">
-
-						<fieldset>
-							<!-- Text input-->
-							<div class="form-group my">
-								<label class="col-md-12 control-label" for="name">Имя</label>
-								<div class="col-md-12">
-									<input id="name" name="name" type="text" placeholder="Имя или название организации" class="form-control input-md" required="" aria-required="true">
-								</div>
-							</div>
-							<br>
-							<!-- Text input-->
-							<div class="form-group my">
-								<label class="col-md-12 control-label" for="tel">Номер телефона</label>
-								<div class="col-md-12">
-									<input class="form-control input-md" type="text" id="tel" name="tel" placeholder="(097) 806 0988">
-								</div>
-							</div>
-							<br>
-							<!-- Textarea -->
-							<div class="form-group my">
-								<label class="col-md-12 control-label" for="text">Предложение</label>
-								<div class="col-md-12">
-									<textarea id="text" style="resize: none;height:250px" class="form-control" name="textarea"></textarea>
-								</div>
-							</div>
-						</fieldset>
-
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-primary send-form">Отправить</button>
-				</div>
-				</form>
-			</div>
+			<iframe scrolling="no" id="form_frame" src="http://relaxmusic.esy.es/portfolio/form"></iframe>
 		</div>
+	</div>
 </body>
 </html>
