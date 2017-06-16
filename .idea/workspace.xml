@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="google optimisation">
+    <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
     </list>
     <ignored path="AntonyHopPortfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="306">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -404,14 +402,7 @@
       <workItem from="1497526827203" duration="6104000" />
       <workItem from="1497543913681" duration="1533000" />
       <workItem from="1497545509436" duration="4215000" />
-      <workItem from="1497622613797" duration="2979000" />
-    </task>
-    <task id="LOCAL-00005" summary="create lichniye kachestva">
-      <created>1483622300734</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1483622300734</updated>
+      <workItem from="1497622613797" duration="3048000" />
     </task>
     <task id="LOCAL-00006" summary="create lichniye kachestva">
       <created>1483622502829</created>
@@ -749,11 +740,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497625269593</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Разметка с помощью микроданных, созданная Мастером разметки структурированных данных Google.">
+      <created>1497625667248</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1497625667248</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103307000" />
+    <option name="totallyTimeSpent" value="103376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
@@ -794,7 +792,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add about myself" />
     <MESSAGE value="Add gramots&#10;" />
     <MESSAGE value="Enden landing&#10;" />
     <MESSAGE value="fix mobule wersion&#10;" />
@@ -819,7 +816,8 @@
     <MESSAGE value="Add to google verification" />
     <MESSAGE value="Add title" />
     <MESSAGE value="google optimisation" />
-    <option name="LAST_COMMIT_MESSAGE" value="google optimisation" />
+    <MESSAGE value="Разметка с помощью микроданных, созданная Мастером разметки структурированных данных Google." />
+    <option name="LAST_COMMIT_MESSAGE" value="Разметка с помощью микроданных, созданная Мастером разметки структурированных данных Google." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1446,8 +1444,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="306">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
