@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="fix animation clean trash">
+    <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="fix foto size">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/style.less" afterPath="$PROJECT_DIR$/less/style.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <ignored path="AntonyHopPortfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,8 +73,8 @@
       <file leaf-file-name="style.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="164" column="41" lean-forward="false" selection-start-line="164" selection-start-column="41" selection-end-line="164" selection-end-column="41" />
+            <state relative-caret-position="646">
+              <caret line="180" column="5" lean-forward="true" selection-start-line="180" selection-start-column="5" selection-end-line="180" selection-end-column="5" />
               <folding>
                 <element signature="e#379#441#0" expanded="false" />
                 <element signature="e#456#995#0" expanded="false" />
@@ -396,14 +396,7 @@
       <workItem from="1497543913681" duration="1533000" />
       <workItem from="1497545509436" duration="4215000" />
       <workItem from="1497622613797" duration="5006000" />
-      <workItem from="1497629998436" duration="418000" />
-    </task>
-    <task id="LOCAL-00009" summary="create my projects section and fix warnings and set text">
-      <created>1484732819249</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1484732819249</updated>
+      <workItem from="1497629998436" duration="655000" />
     </task>
     <task id="LOCAL-00010" summary="create a proffetional skills">
       <created>1485512787469</created>
@@ -741,11 +734,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497627096949</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="fix foto size">
+      <created>1497630446500</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1497630446500</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105752000" />
+    <option name="totallyTimeSpent" value="105989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
@@ -786,7 +786,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Enden landing&#10;" />
     <MESSAGE value="fix mobule wersion&#10;" />
     <MESSAGE value="fix mobule wersion remove header on mobule wersion&#10;" />
     <MESSAGE value="fix mobule wersion remove header on mobule wersion2&#10;" />
@@ -811,7 +810,8 @@
     <MESSAGE value="google optimisation" />
     <MESSAGE value="Разметка с помощью микроданных, созданная Мастером разметки структурированных данных Google." />
     <MESSAGE value="fix animation clean trash" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix animation clean trash" />
+    <MESSAGE value="fix foto size" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix foto size" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1258,8 +1258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/less/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="164" column="41" lean-forward="false" selection-start-line="164" selection-start-column="41" selection-end-line="164" selection-end-column="41" />
+        <state relative-caret-position="646">
+          <caret line="180" column="5" lean-forward="true" selection-start-line="180" selection-start-column="5" selection-end-line="180" selection-end-column="5" />
           <folding>
             <element signature="e#379#441#0" expanded="false" />
             <element signature="e#456#995#0" expanded="false" />
