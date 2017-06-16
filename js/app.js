@@ -19,7 +19,5 @@ $(document).ready(function () {
             $('html,body').animate({scrollTop: Math.abs($(id).offset().top-offset)}, 'slow');
         }
     }
-
-
 });
 
