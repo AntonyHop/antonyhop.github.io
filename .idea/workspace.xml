@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/style.less" afterPath="$PROJECT_DIR$/less/style.less" />
     </list>
     <ignored path="AntonyHopPortfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -397,14 +395,7 @@
       <workItem from="1497543913681" duration="1533000" />
       <workItem from="1497545509436" duration="4215000" />
       <workItem from="1497622613797" duration="5006000" />
-      <workItem from="1497629998436" duration="1045000" />
-    </task>
-    <task id="LOCAL-00012" summary="Add about myself">
-      <created>1493630009963</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1493630009963</updated>
+      <workItem from="1497629998436" duration="1086000" />
     </task>
     <task id="LOCAL-00013" summary="Add gramots&#10;">
       <created>1493634021214</created>
@@ -742,11 +733,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497630787224</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="fix header">
+      <created>1497631064169</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1497631064169</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106379000" />
+    <option name="totallyTimeSpent" value="106420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
@@ -787,7 +785,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix mobule wersion&#10;" />
     <MESSAGE value="fix mobule wersion remove header on mobule wersion&#10;" />
     <MESSAGE value="fix mobule wersion remove header on mobule wersion2&#10;" />
     <MESSAGE value="fix mobule wersion remove header on mobule wersion2&#10;3" />
@@ -812,7 +809,8 @@
     <MESSAGE value="Разметка с помощью микроданных, созданная Мастером разметки структурированных данных Google." />
     <MESSAGE value="fix animation clean trash" />
     <MESSAGE value="fix foto size" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix foto size" />
+    <MESSAGE value="fix header" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix header" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
