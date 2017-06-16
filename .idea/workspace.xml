@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/style.less" afterPath="$PROJECT_DIR$/less/style.less" />
     </list>
     <ignored path="AntonyHopPortfolio.iws" />
@@ -73,8 +74,8 @@
       <file leaf-file-name="style.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="164" column="42" lean-forward="false" selection-start-line="164" selection-start-column="42" selection-end-line="164" selection-end-column="42" />
+            <state relative-caret-position="578">
+              <caret line="252" column="12" lean-forward="false" selection-start-line="252" selection-start-column="12" selection-end-line="252" selection-end-column="12" />
               <folding>
                 <element signature="e#379#441#0" expanded="false" />
                 <element signature="e#456#995#0" expanded="false" />
@@ -396,14 +397,7 @@
       <workItem from="1497543913681" duration="1533000" />
       <workItem from="1497545509436" duration="4215000" />
       <workItem from="1497622613797" duration="5006000" />
-      <workItem from="1497629998436" duration="774000" />
-    </task>
-    <task id="LOCAL-00011" summary="fix all">
-      <created>1492272493588</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1492272493588</updated>
+      <workItem from="1497629998436" duration="1045000" />
     </task>
     <task id="LOCAL-00012" summary="Add about myself">
       <created>1493630009963</created>
@@ -741,11 +735,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497630666090</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="fix foto size">
+      <created>1497630787224</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1497630787224</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106108000" />
+    <option name="totallyTimeSpent" value="106379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1416" height="1026" extended-state="6" />
@@ -1263,8 +1264,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/less/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="164" column="42" lean-forward="false" selection-start-line="164" selection-start-column="42" selection-end-line="164" selection-end-column="42" />
+        <state relative-caret-position="578">
+          <caret line="252" column="12" lean-forward="false" selection-start-line="252" selection-start-column="12" selection-end-line="252" selection-end-column="12" />
           <folding>
             <element signature="e#379#441#0" expanded="false" />
             <element signature="e#456#995#0" expanded="false" />
