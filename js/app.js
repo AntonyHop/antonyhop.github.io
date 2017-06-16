@@ -20,8 +20,6 @@ $(document).ready(function () {
         }
     }
 
-    var frame = document.getElementById('form_frame').contentDocument;
-   console.log(frame);
 
 });
 
