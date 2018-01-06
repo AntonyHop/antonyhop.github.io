@@ -26,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="44" column="122" lean-forward="false" selection-start-line="44" selection-start-column="122" selection-end-line="44" selection-end-column="122" />
+            <state relative-caret-position="332">
+              <caret line="108" column="112" lean-forward="true" selection-start-line="108" selection-start-column="112" selection-end-line="108" selection-end-column="112" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -349,14 +349,7 @@
       <workItem from="1497632680468" duration="494000" />
       <workItem from="1514463290724" duration="1080000" />
       <workItem from="1515157682982" duration="54000" />
-      <workItem from="1515268899112" duration="179000" />
-    </task>
-    <task id="LOCAL-00018" summary="Enden landing&#10;">
-      <created>1495731200305</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1495731200305</updated>
+      <workItem from="1515268899112" duration="912000" />
     </task>
     <task id="LOCAL-00019" summary="Enden landing&#10;">
       <created>1495731352694</created>
@@ -694,11 +687,18 @@
       <option name="project" value="LOCAL" />
       <updated>1514463776360</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="исправил ошибки">
+      <created>1515269124644</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1515269124644</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108869000" />
+    <option name="totallyTimeSpent" value="109602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -739,7 +739,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix mobule wersion remove header on mobule wersion2&#10;3" />
     <MESSAGE value="add director php" />
     <MESSAGE value="add director php phpinfo&#10;" />
     <MESSAGE value="fix meta viewport on mobule devices&#10;" />
@@ -764,7 +763,8 @@
     <MESSAGE value="fix header" />
     <MESSAGE value="исправил ошибку проэктов" />
     <MESSAGE value="исправил ошибку проэктов2" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправил ошибку проэктов2" />
+    <MESSAGE value="исправил ошибки" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправил ошибки" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1211,8 +1211,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="44" column="122" lean-forward="false" selection-start-line="44" selection-start-column="122" selection-end-line="44" selection-end-column="122" />
+        <state relative-caret-position="332">
+          <caret line="108" column="112" lean-forward="true" selection-start-line="108" selection-start-column="112" selection-end-line="108" selection-end-column="112" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
