@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5fbcd857-f7d5-4d86-aff9-d7f944e7372a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="AntonyHopPortfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +25,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="108" column="112" lean-forward="true" selection-start-line="108" selection-start-column="112" selection-end-line="108" selection-end-column="112" />
+            <state relative-caret-position="-663">
+              <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -349,14 +348,7 @@
       <workItem from="1497632680468" duration="494000" />
       <workItem from="1514463290724" duration="1080000" />
       <workItem from="1515157682982" duration="54000" />
-      <workItem from="1515268899112" duration="912000" />
-    </task>
-    <task id="LOCAL-00019" summary="Enden landing&#10;">
-      <created>1495731352694</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1495731352694</updated>
+      <workItem from="1515268899112" duration="1001000" />
     </task>
     <task id="LOCAL-00020" summary="fix mobule wersion&#10;">
       <created>1495731730980</created>
@@ -694,11 +686,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515269124644</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="исправил ошибки 2">
+      <created>1515269856465</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1515269856465</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109602000" />
+    <option name="totallyTimeSpent" value="109691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -739,7 +738,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add director php" />
     <MESSAGE value="add director php phpinfo&#10;" />
     <MESSAGE value="fix meta viewport on mobule devices&#10;" />
     <MESSAGE value="fix meta viewport on mobule devices and all&#10;" />
@@ -764,7 +762,8 @@
     <MESSAGE value="исправил ошибку проэктов" />
     <MESSAGE value="исправил ошибку проэктов2" />
     <MESSAGE value="исправил ошибки" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправил ошибки" />
+    <MESSAGE value="исправил ошибки 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправил ошибки 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1211,8 +1210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="108" column="112" lean-forward="true" selection-start-line="108" selection-start-column="112" selection-end-line="108" selection-end-column="112" />
+        <state relative-caret-position="-663">
+          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
